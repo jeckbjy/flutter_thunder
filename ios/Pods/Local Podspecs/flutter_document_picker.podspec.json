@@ -1,0 +1,27 @@
+{
+  "name": "flutter_document_picker",
+  "version": "0.0.1",
+  "summary": "Allows user pick a document.",
+  "description": "Allows user pick a document.",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.0"
+}
